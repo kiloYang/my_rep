@@ -1,1 +1,1 @@
-int main 2
+int main 2 1
